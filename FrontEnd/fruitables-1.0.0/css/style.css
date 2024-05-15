@@ -117,10 +117,13 @@
   Blog Sidebar
 -----------------------*/
 
+<<<<<<< HEAD
 .blog__sidebar {
 	padding-top: 50px;
 }
 
+=======
+>>>>>>> c709f94260863d8ef5a093e4e8b0c69a6ca6c64e
 .blog__sidebar__item {
 	margin-bottom: 50px;
 }
@@ -279,7 +282,10 @@
 -----------------------*/
 
 .related-blog {
+<<<<<<< HEAD
 	padding-top: 70px;
+=======
+>>>>>>> c709f94260863d8ef5a093e4e8b0c69a6ca6c64e
 	padding-bottom: 10px;
 }
 
